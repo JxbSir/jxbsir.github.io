@@ -46,3 +46,5 @@ social:
 ga:
     id: UA-72007485-5
     host: jinxuebin.cn
+
+theme: jekyll-theme-cayman
